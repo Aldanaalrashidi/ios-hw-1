@@ -112,7 +112,8 @@ age3 == 17
 age1 != 17
 age2 != 17
 age3 != 17
-
+ 
+//Bonus
 isKuwaiti || isKuwaiti2 == true
 isKuwaiti && isKuwaiti2 && isKuwaiti3 == true
 
