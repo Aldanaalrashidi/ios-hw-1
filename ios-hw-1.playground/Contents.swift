@@ -117,7 +117,7 @@ isKuwaiti || isKuwaiti2 == true
 isKuwaiti && isKuwaiti2 && isKuwaiti3 == true
 
 if(age2 == 17){print ("Hadeel is 17 years old")}
-if(age2 != 17){print ("Hadeel is not 17 years old")}
+if(age2 != 17){print ("Hadeel isn't 17 years old")}
  
  
 
